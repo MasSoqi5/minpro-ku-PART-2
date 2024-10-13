@@ -1,0 +1,2 @@
+# minpro-ku-PART-2
+TUGAS YANG PAKE CRUD
