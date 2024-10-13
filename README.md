@@ -1,4 +1,6 @@
 ![Flowchart crud drawio](https://github.com/user-attachments/assets/bb87b4e5-e672-4e02-9546-e33de66a678c)
+![image](https://github.com/user-attachments/assets/f71a7c8c-97ad-4a8b-93f1-cdb9cede9bd5)
+
 # menggunakan prettytable
 from prettytable import PrettyTable
 # Daftar username dan password yang valid menggunakan dictionary
