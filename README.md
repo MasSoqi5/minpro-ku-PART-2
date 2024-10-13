@@ -1,5 +1,6 @@
 # Flow chart
-![Flowchart crud drawio](https://github.com/user-attachments/assets/bb87b4e5-e672-4e02-9546-e33de66a678c)
+![Flowchart crud 2 drawio](https://github.com/user-attachments/assets/7a30e8e6-5838-4de7-950c-e4f43ca696d9)
+
 # TERMINAL
 ![image](https://github.com/user-attachments/assets/f71a7c8c-97ad-4a8b-93f1-cdb9cede9bd5)
 
